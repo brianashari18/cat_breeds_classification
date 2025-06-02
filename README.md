@@ -1,0 +1,1 @@
+klasifikasi ras kucing dilakukan menggunakan pendekatan ensemble learning yang base learners nya terdiri dari RF, SVM, dan KNN. Hasil pengujian menunjukkan bahwa model ensemble learning memberikan performa terbaik dibandingkan base learners nya dengan nilai akurasi sebesar 81.52%
